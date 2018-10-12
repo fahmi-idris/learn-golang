@@ -11,4 +11,6 @@ func main() {
 
 	// Multi variable declaration
 	name, _ = "Muhammad Harits Syaifulloh", "Learn Golang is funny"
+
+	name, name_2, _ = "Muhammad Harits Syaifulloh", "Fahmi Idris", "Learn Golang is funny"
 }
